@@ -1,0 +1,3 @@
+/home/nikita/source/cpp/tetris/build/CMakeFiles/rebuild_cache.dir
+/home/nikita/source/cpp/tetris/build/CMakeFiles/edit_cache.dir
+/home/nikita/source/cpp/tetris/build/CMakeFiles/tetris.dir

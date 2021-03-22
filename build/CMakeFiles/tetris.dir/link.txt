@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tetris.dir/main.cpp.o CMakeFiles/tetris.dir/tetris.cpp.o  -o tetris 

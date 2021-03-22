@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/source/cpp/tetris/main.cpp
+SFML/Graphics.hpp
+-
+SFML/Window.hpp
+-
+tetris.h
+/home/nikita/source/cpp/tetris/tetris.h
+
+/home/nikita/source/cpp/tetris/tetris.cpp
+tetris.h
+/home/nikita/source/cpp/tetris/tetris.h
+
+/home/nikita/source/cpp/tetris/tetris.h
+SFML/Graphics.hpp
+-
+iostream
+-
+cmath
+-
+tetris_const.h
+/home/nikita/source/cpp/tetris/tetris_const.h
+
+/home/nikita/source/cpp/tetris/tetris_const.h
+
